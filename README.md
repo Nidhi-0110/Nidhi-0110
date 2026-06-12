@@ -37,18 +37,17 @@
 
 <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212747119-c47a3479-3fdd-4654-9eee-1383fb0db1d1.gif"/>
 
-```yaml
-┌──────────────────────────────────────────┐
-│           NIDHI PATEL — DATA ANALYST     │
-├──────────────────────────────────────────┤
-│  🎓 B.Tech Computer Engg — CGPA: 6.50   │
-│  🏅 Diploma Computer Engg — CGPA: 9.00  │
-│  📍 Gujarat, India                       │
-│  💼 Open to: Full-time & Internships     │
-│  🌱 Exploring: Deep Learning • MLOps     │
-│  🎯 Goal: Data-Driven Decision Making    │
-└──────────────────────────────────────────┘
-```
+
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech Computer Engineering — Ganpat University |
+| 🏅 **Diploma** | Computer Engineering — CGPA **9.00 / 10** |
+| 📍 **Location** | Gujarat, India 🇮🇳 |
+| 💼 **Available for** | Full-time Roles & Internships |
+| 🌱 **Currently Learning** | Deep Learning • MLOps • Cloud |
+| 🎯 **Career Goal** | Data-Driven Decision Making |
+
+
 
 - 🔥 Passionate about transforming raw data into **actionable business insights**
 - 🧠 Strong foundation in **Data Cleaning, EDA, Statistical Analysis & Feature Engineering**
@@ -106,20 +105,20 @@
 
 ## 💼 Experience
 
-<div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║   🏢  Data Analyst Intern  |  Elevate Labs (Remote)             ║
-║   📅  Feb 2026 – Apr 2026                                       ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🔍  Cleaned & preprocessed real-world datasets                  ║
-║  📊  Conducted full Exploratory Data Analysis (EDA)              ║
-║  📈  Built visualizations to drive data-informed decisions       ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+  <td><img src="https://img.shields.io/badge/🏢_Elevate_Labs-Remote_Internship-4F46E5?style=for-the-badge"/></td>
+  <td><img src="https://img.shields.io/badge/📅_Feb_2026_–_Apr_2026-06B6D4?style=for-the-badge"/></td>
+  <td><img src="https://img.shields.io/badge/Role-Data_Analyst_Intern-8B5CF6?style=for-the-badge"/></td>
+</tr>
+</table>
 
-</div>
+- 🔍 **Data Preprocessing** — Cleaned & transformed real-world datasets for analysis
+- 📊 **Exploratory Data Analysis** — Conducted full EDA to uncover patterns & trends
+- 📈 **Data Visualization** — Built charts & visual reports to support business decisions
+
+
 
 ---
 
