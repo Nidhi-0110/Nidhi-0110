@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20,24,30&text=Nidhi%20Patel&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20Python%20Developer&descAlignY=62&descSize=22&stroke=ffffff&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20,24,30&text=Nidhi%20Patel&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Data%20Analyst%20%7C%20ML%20Enthusiast%20%7C%20PowerBI%20Developer&descAlignY=62&descSize=22&stroke=ffffff&strokeWidth=2"/>
 
 <!-- Social Badges -->
-<a href="https://www.linkedin.com/in/nidhi-patel">
+<a href="https://www.linkedin.com/in/nidhi-patel-8947592b1/?skipRedirect=true">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:patelnidhi1628@gmail.com">
@@ -12,9 +12,6 @@
 </a>
 <a href="https://github.com/Nidhi-0110">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="tel:+918734838561">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -25,9 +22,9 @@
 <br/>
 
 <!-- Profile Stats -->
-<img src="https://komarev.com/ghpvc/?username=Nidhi-0110&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Nidhi-0110?label=Followers&style=for-the-badge&color=06B6D4&logo=github"/>
-<img src="https://img.shields.io/github/stars/Nidhi-0110?affiliations=OWNER&label=Stars&style=for-the-badge&color=f59e0b&logo=github"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Nidhi-0110&label=Profile+Views&color=8B5CF6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Nidhi-0110?label=Followers&style=for-the-badge&color=06B6D4&logo=github"/> -->
+<!-- <img src="https://img.shields.io/github/stars/Nidhi-0110?affiliations=OWNER&label=Stars&style=for-the-badge&color=f59e0b&logo=github"/> -->
 
 </div>
 
@@ -40,12 +37,13 @@
 
 | | |
 |---|---|
-| 🎓 **Education** | B.Tech Computer Engineering — Ganpat University |
-| 🏅 **Diploma** | Computer Engineering — CGPA **9.00 / 10** |
+| 💼 **Role** | Aspiring Data Analyst |
+| 🎓 **Education** | B.Tech Computer Engineering — Ganpat University — CGPA **6.50 / 10** |
+| 🏅 **Diploma** | Computer Engineering — Ganpat University — CGPA **9.00 / 10** |
 | 📍 **Location** | Gujarat, India 🇮🇳 |
 | 💼 **Available for** | Full-time Roles & Internships |
-| 🌱 **Currently Learning** | Deep Learning • MLOps • Cloud |
-| 🎯 **Career Goal** | Data-Driven Decision Making |
+| 🌱 **Currently Exploring** | Data analyst • Power BI Developer • Machine Learning |
+| 🎯 **Career Goal** | To become a Data Analyst & Data Scientist who helps organizations make smarter decisions through data |
 
 
 
@@ -68,11 +66,12 @@
 ### 👩‍💻 Languages & Frameworks
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
 
 ### 📊 Data Science & ML
 
@@ -81,7 +80,6 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 ### 📈 BI & Visualization
 
@@ -91,7 +89,6 @@
 
 ### 🗄️ Databases & Tools
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -157,13 +154,16 @@
   <a href="https://github.com/Nidhi-0110/Heart-stroke-Prediction">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+   <a href="https://heart-stroke-prediction-ieq9.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </div>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3 align="center">📊 HR Analytics Dashboard</h3>
+<h3 align="center">📊 HR Analytics </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Attrition_Analysis-06B6D4?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Type-Analytics-4F46E5?style=for-the-badge"/>
@@ -188,6 +188,9 @@
 <div align="center">
   <a href="https://github.com/Nidhi-0110/HR_Analytics">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+   <a href="hr-analytics-03sk.onrender.com">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
 
@@ -221,10 +224,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 <div align="center">
-  <a href="https://github.com/Nidhi-0110">
+  <a href="https://github.com/Nidhi-0110/Portfolio">
     <img src="https://img.shields.io/badge/📂_Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/Nidhi-0110">
+  <a href="https://portfolio-14hq.onrender.com/">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </div>
@@ -268,31 +271,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-```python
-class NidhiPatel:
-    def __init__(self):
-        self.name        = "Nidhi Patel"
-        self.role        = "Aspiring Data Analyst"
-        self.location    = "Gujarat, India 🇮🇳"
-        self.education   = "B.Tech — Computer Engineering @ Ganpat University"
-        self.skills      = ["Python", "SQL", "Power BI", "Machine Learning", "Data Visualization"]
-        self.learning    = ["Deep Learning", "MLOps", "Cloud (AWS/GCP)", "Data Engineering"]
-        self.hobbies     = ["Exploring datasets", "Building dashboards", "Kaggle competitions"]
-        self.open_to     = ["Full-time Roles", "Internships", "Freelance Projects"]
-
-    def current_goal(self):
-        return "Become a Professional Data Analyst 🚀"
-
-    def fun_fact(self):
-        return "I can spend hours cleaning a messy dataset — and I actually enjoy it! 😄"
-
-me = NidhiPatel()
-print(f"Goal  → {me.current_goal()}")
-print(f"Fact  → {me.fun_fact()}")
-```
-
 ---
 
 ## 📊 GitHub Analytics
@@ -314,15 +292,6 @@ print(f"Fact  → {me.fun_fact()}")
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Nidhi-0110&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10"/>
-
-</div>
-
 ---
 
 ## 🌐 Let's Connect & Collaborate
@@ -331,7 +300,7 @@ print(f"Fact  → {me.fun_fact()}")
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-patel)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidhi-patel-8947592b1/?skipRedirect=true)
 [![Gmail](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelnidhi1628@gmail.com)
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nidhi-0110)
 
